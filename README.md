@@ -35,6 +35,11 @@ wget https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.32.3.2/sqlite-jdbc-
 wget https://repo1.maven.org/maven2/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar
 ```
 
+### Obter Bibliotecas Python
+```
+pip instalar jsonpickle
+```
+
 ## Compilação e execução
 
 ### Compilar e executar o servidor no diretório javacode
