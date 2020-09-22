@@ -30,7 +30,7 @@ while(True):
   opCode = input("Que operação deseja fazer? > ")
   if (opCode == "addNota"):
     RA = input("RA do aluno > ")
-    discCode = input("Disciplina > ")
+    discCode = input("Código da Disciplina > ")
     ano = input("Ano > ")
     semestre = input("Semestre > ")
     nota = input("Nota > ")
@@ -39,7 +39,7 @@ while(True):
 
   elif (opCode == "rmNota"):
     RA = input("RA do aluno > ")
-    discCode = input("Disciplina > ")
+    discCode = input("Código da Disciplina > ")
     ano = input("Ano > ")
     semestre = input("Semestre > ")
 
